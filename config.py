@@ -1,0 +1,3 @@
+TOKEN = '975958816:AAGLi7yZgMErf3EwgaapEwSkBgufKurlQnk'
+TIMEZONE = 'Europe/Kiev'
+TIMEZONE_COMMON_NAME = 'Kiev'
