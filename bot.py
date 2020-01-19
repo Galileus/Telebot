@@ -48,5 +48,5 @@ def menu(message):
     keyboard.add(telebot.types.InlineKeyboardButton('menu', url='telegram.me/Galileys'))
     bot.send_message(message.chat.id, 'here you can find the menu for this bot', reply_markup=keyboard)
 ##########################################################################################
-
-bot.polling(none_stop=True)
+if __name__ == '__main__':
+    bot.polling(none_stop=True)
